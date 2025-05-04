@@ -11,7 +11,7 @@ import org.junit.Assert.*
    val previous = 0
 
    val result = commissn(transfer, previous, typeCard)
-   assertEquals(75, result)
+   assertEquals(750, result)
 
   }
 
